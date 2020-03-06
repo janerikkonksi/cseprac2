@@ -5,7 +5,6 @@
 	required = true
 [user]
 	email = jan.konksi@mail.ee
-	name = Jan Erik Konksi
 [core]
 	editor = notepad
 [alias]
