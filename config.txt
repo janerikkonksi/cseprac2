@@ -11,3 +11,5 @@
 	co = checkout
 	a = add
 	c = commit
+
+.pyre/ - Pyre type checker
